@@ -9,9 +9,10 @@ import { OfferOneComponent } from './offer-one/offer-one.component';
 import { OfferTwoComponent } from './offer-two/offer-two.component';
 
 import { FlexLayoutModule } from '@angular/flex-layout';
+import { TopNavbarComponent } from './top-navbar/top-navbar.component';
 
 @NgModule({
-	declarations: [ AppComponent, NavbarComponent, TableDataComponent, OfferOneComponent, OfferTwoComponent ],
+	declarations: [ AppComponent, NavbarComponent, TableDataComponent, OfferOneComponent, OfferTwoComponent, TopNavbarComponent ],
 	imports: [ BrowserModule, AppRoutingModule, FlexLayoutModule ],
 	providers: [],
 	bootstrap: [ AppComponent ]

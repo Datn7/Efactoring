@@ -7,5 +7,14 @@
 	margin-top: 50px;
 
 	box-shadow: 0px 0px 24px #cecece;
-	margin: 10px;
+	height: 150px;
+	margin: 5px;
+}
+
+div p {
+	margin: 0;
+}
+
+.mainText {
+	margin-top: 30px;
 }
