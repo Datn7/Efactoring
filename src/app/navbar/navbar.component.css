@@ -1,0 +1,36 @@
+.navbar {
+	height: 100vh;
+	background-color: #387d7a;
+}
+
+nav ul li a {
+	color: white;
+	font-size: 16px;
+	vertical-align: center;
+}
+
+nav ul {
+	list-style: none;
+	position: relative;
+}
+
+nav ul li {
+	margin-top: 20px;
+}
+
+nav ul li img {
+	width: 16px;
+	height: 16px;
+	margin: 10px;
+}
+
+.logoClass {
+	position: absolute;
+	margin-bottom: 750px;
+	margin-left: 55px;
+}
+
+li:hover {
+	background-color: #38aba7;
+	border-radius: 0 30px 30px 0;
+}
